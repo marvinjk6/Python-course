@@ -5,8 +5,8 @@
 
 # 
 
-num1 = float(input("Digit first number: "))
-num2 = float(input("Digit second number: "))
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
 
 
 def sum(n1, n2):
