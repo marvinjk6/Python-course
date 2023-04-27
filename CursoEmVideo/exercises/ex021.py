@@ -6,8 +6,10 @@ Para fazer esse desafio o Guanabara usou um módulo chamado pygame
 Instalar: pip install pygame
 '''
 
+'''
 import pygame
 pygame.init()
 pygame.mixer.music.load('Coloque o nome do arquivo')
 pygame.mixer.music.play()
 pygame.event.wait()
+'''
